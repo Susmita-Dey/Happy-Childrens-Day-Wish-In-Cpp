@@ -11,8 +11,7 @@ int main()
     system("Color 0D");
     Sleep(2000);
 
-    cout << "\n\n\t\tHello EveryOne(::)\n\n\t\t";
-
+    cout << "\n\n\t\tHello EveryOne(::)\n\nWelcome to My Channel!\t\tLet's Start Coding!!!\n\n\t\t";
     for (i = 0; i < text.length(); i++)
     {
         n > 9 ? n = 0 : n++;
